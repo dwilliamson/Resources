@@ -51,6 +51,12 @@ Mipmapping Normal Maps
 ftp://download.nvidia.com/developer/Papers/Mipmapping_Normal_Maps.pdf  
 Spectacular Specular  
 http://twvideo01.ubm-us.net/o1/vault/gdc2011/slides/Dan_Baker_SpectacularSpecular.ppt  
+Rock-Solid Shading  
+http://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf  
+http://blog.selfshadow.com/sandbox/diffuse_aa.html  
+Linear Efficient Antialiased Displacement and Reflectance Mapping  
+http://hal.inria.fr/docs/00/86/00/34/PDF/LEADRmapping.pdf  
+
   
 **Screen-space Reflections**  
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
