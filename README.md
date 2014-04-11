@@ -40,6 +40,18 @@ http://c0de517e.blogspot.ca/2013/12/notes-on-epics-area-lights.html
 Physically based rendering viewer  
 http://www.alexandre-pestana.com/physically-based-rendering-viewer/  
   
+**Normal Map Filtering**  
+LEAN Mapping  
+http://www.csee.umbc.edu/~olano/papers/lean/  
+Specular Showdown in the Wild West  
+http://blog.selfshadow.com/2011/07/22/specular-showdown/  
+Frequency Domain Normal Map Filtering  
+http://www.cs.columbia.edu/cg/normalmap/normalmap.pdf  
+Mipmapping Normal Maps  
+ftp://download.nvidia.com/developer/Papers/Mipmapping_Normal_Maps.pdf  
+Spectacular Specular  
+http://twvideo01.ubm-us.net/o1/vault/gdc2011/slides/Dan_Baker_SpectacularSpecular.ppt  
+  
 **Screen-space Reflections**  
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
 http://bartwronski.com/publications/  
