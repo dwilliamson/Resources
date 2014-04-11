@@ -27,6 +27,8 @@ Monsters University: rendering physically based monsters
 http://www.fxguide.com/featured/monsters-university-rendering-physically-based-monsters  
 Basic Theory of Physically-Based Rendering  
 http://www.marmoset.co/toolbag/learn/pbr-theory  
+Physically-based lighting in Call of Duty: Black Ops  
+http://advances.realtimerendering.com/s2011/Lazarov-Physically-Based-Lighting-in-Black-Ops%20(Siggraph%202011%20Advances%20in%20Real-Time%20Rendering%20Course).pptx  
 RYSE - The Transition to Physically Based Shading  
 http://www.makinggames.de/index.php/magazin/2391_ryse__the_transition_to_physically_based_shading  
 Physically Based Shading  
