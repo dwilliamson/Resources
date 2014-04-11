@@ -31,6 +31,12 @@ RYSE - The Transition to Physically Based Shading
 http://www.makinggames.de/index.php/magazin/2391_ryse__the_transition_to_physically_based_shading  
 Physically Based Shading  
 http://www.rorydriscoll.com/2013/11/22/physically-based-shading  
+The Blinn-Phong Normalization Zoo  
+http://www.thetenthplanet.de/archives/255  
+Notes on Epic's Area Lights  
+http://c0de517e.blogspot.ca/2013/12/notes-on-epics-area-lights.html  
+Physically based rendering viewer  
+http://www.alexandre-pestana.com/physically-based-rendering-viewer/  
   
 **Screen-space Reflections**  
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
