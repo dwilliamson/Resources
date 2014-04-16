@@ -39,6 +39,8 @@ Notes on Epic's Area Lights
 http://c0de517e.blogspot.ca/2013/12/notes-on-epics-area-lights.html  
 Physically based rendering viewer  
 http://www.alexandre-pestana.com/physically-based-rendering-viewer/  
+PBR Material Database  
+http://carlosmontero.com/pbr_database/  
   
 **Normal Map Filtering**  
 LEAN Mapping  
