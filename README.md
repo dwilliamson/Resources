@@ -41,6 +41,8 @@ Physically based rendering viewer
 http://www.alexandre-pestana.com/physically-based-rendering-viewer/  
 PBR Material Database  
 http://carlosmontero.com/pbr_database/  
+Optimizing GGX Shaders with dot(L,H)  
+http://www.filmicworlds.com/2014/04/21/optimizing-ggx-shaders-with-dotlh/  
   
 **Normal Map Filtering**  
 LEAN Mapping  
