@@ -60,10 +60,13 @@ http://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf
 http://blog.selfshadow.com/sandbox/diffuse_aa.html  
 Linear Efficient Antialiased Displacement and Reflectance Mapping  
 http://hal.inria.fr/docs/00/86/00/34/PDF/LEADRmapping.pdf  
-
   
 **Screen-space Reflections**  
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
 http://bartwronski.com/publications/  
 Screen-space Refections Filtering and Up-Sampling  
 http://bartwronski.com/2014/03/23/gdc-follow-up-screenspace-reflections-filtering-and-up-sampling/
+  
+**Tiled Forward Shading**  
+Tiled Forward Shading Links  
+http://aras-p.info/blog/2012/03/27/tiled-forward-shading-links/  
