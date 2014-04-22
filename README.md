@@ -72,3 +72,13 @@ http://bartwronski.com/2014/03/23/gdc-follow-up-screenspace-reflections-filterin
 **Tiled Forward Shading**  
 Tiled Forward Shading Links  
 http://aras-p.info/blog/2012/03/27/tiled-forward-shading-links/  
+  
+**Spherical Harmonics**
+Spherical Harmonic Tools  
+http://csc.lsu.edu/~kooima/sht/README.html  
+Spherical/zonal harmonics library  
+https://github.com/andrewwillmott/sh-lib  
+  
+**OpenCL**  
+OpenCL Basics: Flags for the creating memory objects  
+http://streamcomputing.eu/blog/2013-02-03/opencl-basics-flags-for-the-creating-memory-objects/  
