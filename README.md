@@ -60,6 +60,8 @@ http://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf
 http://blog.selfshadow.com/sandbox/diffuse_aa.html  
 Linear Efficient Antialiased Displacement and Reflectance Mapping  
 http://hal.inria.fr/docs/00/86/00/34/PDF/LEADRmapping.pdf  
+A Survey of Efficient Representations for Independent Unit Vectors  
+http://jcgt.org/published/0003/02/01/  
   
 **Screen-space Reflections**  
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
