@@ -73,7 +73,7 @@ http://bartwronski.com/2014/03/23/gdc-follow-up-screenspace-reflections-filterin
 Tiled Forward Shading Links  
 http://aras-p.info/blog/2012/03/27/tiled-forward-shading-links/  
   
-**Spherical Harmonics**
+**Spherical Harmonics**  
 Spherical Harmonic Tools  
 http://csc.lsu.edu/~kooima/sht/README.html  
 Spherical/zonal harmonics library  
