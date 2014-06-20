@@ -43,6 +43,8 @@ PBR Material Database
 http://carlosmontero.com/pbr_database/  
 Optimizing GGX Shaders with dot(L,H)  
 http://www.filmicworlds.com/2014/04/21/optimizing-ggx-shaders-with-dotlh/  
+Moving to Physically Based Shading  
+http://www.chrisevans3d.com/pub_blog/moving-physically-based-shading/  
   
 **Normal Map Filtering**  
 LEAN Mapping  
