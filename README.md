@@ -45,6 +45,10 @@ Optimizing GGX Shaders with dot(L,H)
 http://www.filmicworlds.com/2014/04/21/optimizing-ggx-shaders-with-dotlh/  
 Moving to Physically Based Shading  
 http://www.chrisevans3d.com/pub_blog/moving-physically-based-shading/  
+Physically Based Rendering Encyclopedia  
+https://docs.google.com/document/d/1Fb9_KgCo0noxROKN4iT8ntTbx913e-t4Wc2nMRWPzNk/preview?sle=true  
+Where that #!@&?$^*%! PI comes from  
+http://www.joshbarczak.com/blog/?p=272  
   
 **Normal Map Filtering**  
 LEAN Mapping  
