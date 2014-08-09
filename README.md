@@ -73,7 +73,9 @@ http://jcgt.org/published/0003/02/01/
 Assassin’s Creed 4: Road to Next-gen Graphics, GDC 2014  
 http://bartwronski.com/publications/  
 Screen-space Refections Filtering and Up-Sampling  
-http://bartwronski.com/2014/03/23/gdc-follow-up-screenspace-reflections-filtering-and-up-sampling/
+http://bartwronski.com/2014/03/23/gdc-follow-up-screenspace-reflections-filtering-and-up-sampling/  
+Screen Space Ray Tracing  
+http://casual-effects.blogspot.co.uk/2014/08/screen-space-ray-tracing.html  
   
 **Tiled Forward Shading**  
 Tiled Forward Shading Links  
