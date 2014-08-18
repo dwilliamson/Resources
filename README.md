@@ -92,3 +92,7 @@ OpenCL Basics: Flags for the creating memory objects
 http://streamcomputing.eu/blog/2013-02-03/opencl-basics-flags-for-the-creating-memory-objects/  
 Detailed OpenCL Series of tutorials
 http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7449522 
+  
+**Scattering** 
+Filter-based Real-time Single Scattering using Rectified Shadow Maps 
+http://jcgt.org/published/0003/03/02/ 
